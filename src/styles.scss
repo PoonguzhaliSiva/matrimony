@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~ngx-toastr/toastr";
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+.cursor_pointer{
+    cursor: pointer !important;
+}
+
+.border_radius{
+    border-top-left-radius: 0.55rem;
+    border-top-right-radius: 0.55rem;
+  }

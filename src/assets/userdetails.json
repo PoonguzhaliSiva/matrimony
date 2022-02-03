@@ -1,0 +1,60 @@
+{
+    "user_details": [
+      {
+        "image": "assets/images/img9.jpeg",
+        "name": "Kanimozhi,",
+        "age": "23 Yrs,",
+        "height": "5.2'ft,",
+        "language": "tamil",
+        "caste": "Nair,",
+        "state": "Tamil Nadu.",
+        "city": "Chennai,",
+        "Qualification": "MBBS,",
+        "profession": "Doctor,",
+        "zodiac": "Libra,",
+        "Religion": "Hindu"
+      },
+      {
+        "image": "assets/images/img5.jpg",
+        "name": "Catherine",
+        "age": "25yrs,",
+        "height": "5.5'ft,",
+        "language": "Tamil",
+        "caste": "Roman Catholic,",
+        "state": "Erode.",
+        "city": "Chennai,",
+        "Qualification": "B.Tech,",
+        "profession": "Software Engineer,",
+        "zodiac": "Gemini,",
+        "Religion": "Christian"
+      },
+      {
+        "image": "assets/images/img6.jpg",
+        "name": "Uma Mageshvari",
+        "age": "32 yrs,",
+        "height": "5.1'ft,",
+        "language": "Telugu",
+        "caste": "Chettiyar,",
+        "state": "Tamil Nadu.",
+        "city": "Chennai,",
+        "Qualification": "Bsc.Maths,Bed,",
+        "profession": "Teacher,",
+        "zodiac": "Cancer,",
+        "Religion": "Hindu"
+      },
+      {
+        "image": "assets/images/img7.jpg",
+        "name": "Aahsa",
+        "age": "32 yrs,",
+        "height": "5.9'ft,",
+        "language": "tamil",
+        "caste": "Syed,",
+        "state": "Coimbatore.",
+        "city": "Chennai,",
+        "Qualification": "B.com,",
+        "profession": "Charted Accountent,",
+        "zodiac_star": "Gemini,",
+        "Religion": "Muslim"
+      }
+    ]
+  }
